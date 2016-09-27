@@ -1,4 +1,5 @@
-# Authors: Micheal Sukkarieh, Brendan Kellam, Karl Godin
+## Authors: Micheal Sukkarieh, Brendan Kellam, Karl Godin
+
 
 # Sets the compilation flags to report all warnings and enable debugging in the generated
 # object files and executable
